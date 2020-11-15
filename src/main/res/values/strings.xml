@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Simon Dice</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="juego_de_simonsays">Juego de SimonSays!</string>
+    <string name="Check">Check</string>
+</resources>
